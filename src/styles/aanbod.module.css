@@ -1,0 +1,11 @@
+.voorraad {
+  text-align: center;
+}
+.voorraad > h2 {
+  font-size: 3em;
+  margin-top: 80px;
+}
+.voorraad > h3 {
+  font-size: 2em;
+  font-weight: 400;
+}
