@@ -2,6 +2,21 @@
 # Gatsby passion project
 
 This is my first passion project of the 2, on this website you van see a design made with Gatsby. The website includes a home page, about me page, offer page and a contact page. Most of the pages are not finished due to little information on the web about Gatsby that i wanted in my project.
+
+## Software
+
+**Editor:** Microsoft Visual Studio (v1.63.2)
+
+**Browser:** Google Chrome (v97.0.4692.99)
+
+**Gatsby:** (v4.4.0)
+
+**Gatsby CLI:** (v4.4.0)
+
+**Node Package Manager:** NPM (v6.14.8)
+
+**Electron:** V8 (9.1.269.39-electron.0)
+
 ## Instructions
 
 1.  **Create a Gatsby site.**
